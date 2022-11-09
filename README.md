@@ -8,5 +8,5 @@
 
 Вы можете проверить решении по этой ссылке:
 
-<a href="https://cpython.uzpractice/problems/problem/1508/">Ссылка для задачи #1</a>
-<a href="https://cpython.uzpractice/problems/problem/1509/">Ссылка для задачи #3</a>
+<a href="https://cpython.uz/practice/problems/problem/1508/">Ссылка для задачи #1</a>
+<a href="https://cpython.uz/practice/problems/problem/1509/">Ссылка для задачи #3</a>
